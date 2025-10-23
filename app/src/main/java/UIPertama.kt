@@ -52,5 +52,8 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 containerColor = Color.DarkGray
             )
         ) {
+            Row {
+                val gambar = painterResource( R.drawable.download)
+            }
 
 
