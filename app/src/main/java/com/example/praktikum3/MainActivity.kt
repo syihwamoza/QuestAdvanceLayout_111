@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.UIPertama.ActivitasPertama
 import com.example.praktikum3.ui.theme.Praktikum3Theme
 
 class MainActivity : ComponentActivity() {
