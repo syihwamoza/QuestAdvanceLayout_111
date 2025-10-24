@@ -154,13 +154,16 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                         color = Color.White,
                         fontSize = 18.sp
                     )
-
-
-                }}
+                    Text(
+                        text = "Banjaran",
+                        color = Color.White,
+                        fontSize = 18.sp
+                    )
                 }
-
+            }
         }
-}
 
+    }
+}
 
 
