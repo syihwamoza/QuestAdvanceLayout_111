@@ -110,7 +110,6 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                         color = Color.White,
                         modifier = Modifier.padding(top = 10.dp)
                     )
-
                 }
     }
 }
