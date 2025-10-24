@@ -102,7 +102,16 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                         .padding(all = 5.dp)
                 )
                 Spacer(modifier = Modifier.width(30.dp))
-            }
+                Column {
+                    Text(
+                        text = "Moza Kastella",
+                        fontSize = 30.sp,
+                        fontFamily = FontFamily.Cursive,
+                        color = Color.White,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
+
+                }
     }
 }
 
