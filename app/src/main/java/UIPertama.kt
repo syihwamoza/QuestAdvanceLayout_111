@@ -149,6 +149,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                         color = Color.White,
                         modifier = Modifier.padding(top = 10.dp)
                     )
+                    Text(
+                        text = "Isi NIM",
+                        color = Color.White,
+                        fontSize = 18.sp
+                    )
 
 
                 }}
