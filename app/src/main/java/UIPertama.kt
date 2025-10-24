@@ -131,6 +131,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 containerColor = Color.Red
             )
         ) {
+            Row {
+                val gambar = painterResource(R.drawable.download)
+            }
 
         }
 }
