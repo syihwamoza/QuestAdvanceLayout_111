@@ -122,8 +122,12 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                     )
                 }
             }
+            Card(
+                modifier = Modifier
+
+
+
         }
-    }
     }
 }
 
